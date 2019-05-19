@@ -26,4 +26,3 @@ puts display_board(board)
 
 board = [" ", " ", "O", " ", " ", " ", " ", " ", " "]
 puts display_board(board)
-
